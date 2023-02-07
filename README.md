@@ -1,6 +1,16 @@
-<h1 align="center">Hi, I'm Ivan</h1>
+<h3 align="left">Welcome</h3>
 
 <p align="left"> <a href="https://twitter.com/ivannakov10" target="blank"><img src="https://img.shields.io/twitter/follow/ivannakov10?logo=twitter&style=for-the-badge" alt="ivannakov10" /></a> </p>
+📊 this week i spent my time on:
+<!--START_SECTION:waka-->
+
+```text
+Python       8 hrs 9 mins    ████████████████████████▓   96.43 %
+C#           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+```
+
+<!--END_SECTION:waka-->
 
 
 <h3 align="left">Languages and Tools:</h3>
