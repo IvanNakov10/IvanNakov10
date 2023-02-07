@@ -1,6 +1,10 @@
-<h3 align="left">Welcome</h3>
+<h3 align="left">Hi,</h3>
+<div style="padding: 10px;">
+  
+  <h4>I am an aspiring young programmer with a passion for technology. With my hard work and dedication, I have been able to make great strides in my programming journey. At the tender age of 16, I have already developed a strong foundation in the field.</h4>
+  <p>With experience in HTML, CSS, JavaScript, Bootstrap, TypeScript, C#, and recent forays into Python, I have a diverse set of skills in front-end development. My commitment to always expanding my knowledge and improving my skills sets me apart and I am confident that it will lead to many exciting opportunities in the future.</p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/ivannakov10" target="blank"><img src="https://img.shields.io/twitter/follow/ivannakov10?logo=twitter&style=for-the-badge" alt="ivannakov10" /></a> </p>
 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
 
