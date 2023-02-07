@@ -49,10 +49,20 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
  <img src="https://IvanNakov10-readme-stats.vercel.app/api/top-langs?username=IvanNakov10&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,
  github-activity-readme,fancy-git,challengeBot"
   alt="IvanNakov10's Top Languages" align="right" width="295">
+            
+
+<p align="center">
+<a href="https://github.com/IvanNakov10/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IvanNakov10&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/IvanNakov10/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IvanNakov10&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
 </p>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=IvanNakov10"
     alt="gargakshit"
   />
+    
 </p>
