@@ -23,3 +23,9 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=IvanNakov10&show_icons=true&theme=gotham" alt="IvanNakov10" />
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=IvanNakov10"
+    alt="gargakshit"
+  />
+</p>
