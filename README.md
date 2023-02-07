@@ -48,7 +48,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=IvanNakov10&show_icons=true&theme=gotham" alt="IvanNakov10" />
  <img src="https://IvanNakov10-readme-stats.vercel.app/api/top-langs?username=IvanNakov10&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,
  github-activity-readme,fancy-git,challengeBot"
-  alt="cheesits456's Top Languages" align="right" width="295">
+  alt="IvanNakov10's Top Languages" align="right" width="295">
 </p>
 <p align="left">
   <img
