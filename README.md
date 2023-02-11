@@ -17,7 +17,6 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" right="10"/> </a> 
@@ -48,10 +47,12 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 
 
-📈 my github stats
-
+<h3>📈 My github stats </h3>
+ <br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=IvanNakov10&show_icons=true&theme=gotham" alt="IvanNakov10"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanNakov10&layout=compact" left="20" />
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanNakov10&layout=compact"/>
  </p>      
 
 <p align="center">
