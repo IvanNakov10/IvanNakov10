@@ -1,6 +1,6 @@
 ![Layer 2](https://user-images.githubusercontent.com/77243772/218263351-951266eb-0f4d-4b6c-a0c0-5bc3a226856d.png)
 
-<div style="border-bottom: 1px solid white; padding: 10px; max-width: 40%;">
+<div style="border-bottom: 2px solid white; padding: 10px; max-width: 40%;">
   
   <h4>I am an aspiring young programmer with a passion for technology. With my hard work and dedication, I have been able to make great strides in my programming journey. At the tender age of 16, I have already developed a strong foundation in the field.</h4>
   <p>With experience in HTML, CSS, JavaScript, Bootstrap, TypeScript, C#, and recent forays into Python, I have a diverse set of skills in front-end development. My commitment to always expanding my knowledge and improving my skills sets me apart and I am confident that it will lead to many exciting opportunities in the future.</p>
@@ -34,7 +34,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <br>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="43" height="42"/> </a> 
     <br>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
